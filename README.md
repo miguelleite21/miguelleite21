@@ -1,6 +1,6 @@
 <header>
   <h1 align="center">Olá Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/miguel-leite-/"><i>Miguel Leite</i></a></h1>
-  <p align="center">Atuo como Desenvolvedor FullStack Junior, Formado na <a href="https://kenzie.com.br/"><i>Kenzye Academy Brasil</i></a>
+  <p align="center">Atuo como Desenvolvedor FullStack </a>
   </a><br>
 </header>
 
