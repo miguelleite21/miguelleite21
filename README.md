@@ -2,7 +2,7 @@
 
 # Miguel Leite
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Node.js+%C2%B7+Python+%C2%B7+React;Building+scalable+APIs+%26+UIs)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=435&lines=Software+Enginieer;Node.js+%C2%B7+Python+%C2%B7+React;Building+scalable+APIs+%26+UIs)](https://git.io/typing-svg)
 
 
 **💻 Stack**
